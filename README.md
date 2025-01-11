@@ -3,5 +3,6 @@
 ## PointNet
 
 ```bash
+pip install -r requirements.txt
 bash extract.sh
 ```
